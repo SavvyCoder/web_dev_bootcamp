@@ -1,0 +1,14 @@
+{
+  "name": "express_routing_assignment",
+  "version": "1.0.0",
+  "description": "Express Routing Assignment for udemy Web dev with Colt Steele",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Savinda Gunawardena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
